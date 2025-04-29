@@ -20,7 +20,7 @@ The dashboard offers a detailed breakdown of:
 ## 📸 Screenshots
 
 ### Main Dashboard View:
-![Hotel Dashboard](screenshots/hotel_dashboard_main.png)
+![image](https://github.com/user-attachments/assets/ccfde778-7e77-40d6-8295-227af4e9e8da)
 
 ## 📁 Dataset
 The data used is a publicly available dataset for hotel bookings, originally from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
