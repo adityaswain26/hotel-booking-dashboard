@@ -1,2 +1,43 @@
-# hotel-booking-dashboard
-An Excel dashboard project analyzing hotel booking data to identify trends, peak seasons, and customer behavior using Power Query, Pivot Charts, and data storytelling.
+# Hotel Booking Dashboard 📊
+
+This project presents a hotel booking data analysis dashboard built in **Microsoft Excel**, showcasing booking trends, seasonal patterns, cancellations, and customer preferences.
+
+## 🔍 Overview
+The dashboard offers a detailed breakdown of:
+- Booking trends across months and years
+- Average stay duration by market segment
+- Cancellation rates by customer type
+- ADR (Average Daily Rate) patterns
+- Comparison between resort and city hotels
+
+## 🛠 Tools Used
+- **Microsoft Excel**
+- **Power Query**
+- **Pivot Tables**
+- **Pivot Charts**
+- **Data Cleaning & Transformation**
+
+## 📸 Screenshots
+
+### Main Dashboard View:
+![Hotel Dashboard](screenshots/hotel_dashboard_main.png)
+
+## 📁 Dataset
+The data used is a publicly available dataset for hotel bookings, originally from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
+
+## 📈 Insights
+- Most bookings happen during the summer season.
+- City hotels have a higher cancellation rate than resort hotels.
+- Families tend to book longer stays.
+
+## 📝 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+**Aditya Swain**  
+🔗 [GitHub Profile](https://github.com/adityaswain26)
+
+---
+
